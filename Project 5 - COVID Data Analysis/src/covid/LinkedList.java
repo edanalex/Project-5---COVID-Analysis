@@ -1,7 +1,7 @@
 package covid;
 
 /**
- * Hi
+ * Hi Loser
  * @author Malc
  *
  * @param <T>
